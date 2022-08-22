@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/dcond007/CodePathAndroidDevPrework-Kotlin/blob/main/walkthrough.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://github.com/dcond007/CodePathAndroidDevPrework-Kotlin/blob/main/walkthrough.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
